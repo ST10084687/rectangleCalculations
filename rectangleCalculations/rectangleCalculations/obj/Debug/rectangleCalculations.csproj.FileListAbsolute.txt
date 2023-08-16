@@ -1,0 +1,8 @@
+C:\Users\crais\source\repos\rectangleCalculations\rectangleCalculations\bin\Debug\rectangleCalculations.exe.config
+C:\Users\crais\source\repos\rectangleCalculations\rectangleCalculations\bin\Debug\rectangleCalculations.exe
+C:\Users\crais\source\repos\rectangleCalculations\rectangleCalculations\bin\Debug\rectangleCalculations.pdb
+C:\Users\crais\source\repos\rectangleCalculations\rectangleCalculations\obj\Debug\rectangleCalculations.csproj.AssemblyReference.cache
+C:\Users\crais\source\repos\rectangleCalculations\rectangleCalculations\obj\Debug\rectangleCalculations.csproj.SuggestedBindingRedirects.cache
+C:\Users\crais\source\repos\rectangleCalculations\rectangleCalculations\obj\Debug\rectangleCalculations.csproj.CoreCompileInputs.cache
+C:\Users\crais\source\repos\rectangleCalculations\rectangleCalculations\obj\Debug\rectangleCalculations.exe
+C:\Users\crais\source\repos\rectangleCalculations\rectangleCalculations\obj\Debug\rectangleCalculations.pdb
